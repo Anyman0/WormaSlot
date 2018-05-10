@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/BonusGame.unity
+    guid: cdaeaa4d51b704f4fbb5728c3f7ad80c
+  - enabled: 1
+    path: Assets/Character.unity
+    guid: 2c907932e0340474d89b9b2cebf64a5a
